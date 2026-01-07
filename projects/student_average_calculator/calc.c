@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 // Returns a letter grade based on the average
 char gradeFunction(double avg) {
 	if (avg >= 90)
